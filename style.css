@@ -4,12 +4,84 @@ body {
 
 .header {
     background-color: burlywood;
-    padding: 5px 20px;
+    padding: 0px 50px;
     display: flex;
     justify-content: space-between;
 }
 
-.navigation a {
-    margin: 0 7px;
+.navigation {
+    padding-top: 31px;
 }
 
+.navigation a {
+    margin: 0 7px;
+    color: saddlebrown;
+    text-decoration: auto;
+    -webkit-text-stroke-width: thin;
+    font-size: 130%;
+}
+
+#about:hover {
+    border-bottom: 1px solid saddlebrown;
+}
+
+#gallery:hover {
+    border-bottom: 1px solid saddlebrown;
+}
+
+#contact:hover {
+    border-bottom: 1px solid saddlebrown;
+}
+
+.title {
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 1px;
+    color: saddlebrown;
+    float: left;
+}
+
+.logo-div {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 15px;
+    padding-top: 15px;
+}
+
+.main-logo {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#main-section {
+    padding: 0px 50px;
+    background-image: url(assets/images/background1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 650px;
+    overflow: auto;
+}
+
+footer {
+    background-color: burlywood;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#first-p {
+    margin-top: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    float: left;
+}
+
+.copyright {
+    margin: 0 auto;
+    padding-top: 15px;
+}
