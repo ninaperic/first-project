@@ -57,7 +57,7 @@ body {
 
 #main-section {
     padding: 0px 50px;
-    background-image: url(assets/images/background1.jpg);
+    background-image: url(../images/background1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     height: 650px;
@@ -68,6 +68,12 @@ body {
 h3 {
     text-align: center;
     font-size: -webkit-xxx-large;
+    font-family: 'Dancing Script', cursive;
+    color: maroon;
+}
+
+h4 {
+    text-align: left;
     font-family: 'Dancing Script', cursive;
     color: maroon;
 }
@@ -129,27 +135,44 @@ footer {
     max-width: 100%;
 }
 
+.boxmap-contact {
+    background: antiquewhite;
+    margin-top: 30px;
+    padding: 30px;
+}
+
 .section-contact {
     height: 650px;
-    background: url('assets/images/blur-shop.jpg') ;
+    background: url('../images/blur-shop.jpg') ;
 }
 
 .contact-box {
-    height: 400px;
-    width: 500px;
     background-color: saddlebrown;
     box-shadow: 0 0 20px 0 #999;
-    float: left;
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 form {
     margin: 0;
 }
 
+.submit-button {
+background-color: saddlebrown; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+
 .input-field {
-    width: 450px;
+    width: 100%;
     height: 50px;
     margin-top: 30px;
     padding-left: 40px;
@@ -174,4 +197,12 @@ form {
 
 #galery_images {
     padding: 50px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.h100p {
+    height: 100px;
 }
