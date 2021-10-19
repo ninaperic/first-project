@@ -15,7 +15,7 @@ body {
 
 .navigation a {
     margin: 0 7px;
-    color: saddlebrown;
+    color: maroon;
     text-decoration: auto;
     -webkit-text-stroke-width: thin;
     font-size: 150%;
@@ -24,21 +24,21 @@ body {
 }
 
 #about:hover {
-    border-bottom: 1px solid saddlebrown;
+    border-bottom: 1px solid maroon;
 }
 
 #gallery:hover {
-    border-bottom: 1px solid saddlebrown;
+    border-bottom: 1px solid maroon;
 }
 
 #contact:hover {
-    border-bottom: 1px solid saddlebrown;
+    border-bottom: 1px solid maroon;
 }
 
 .title {
     font-family: 'Dancing Script', cursive;
     letter-spacing: 1px;
-    color: saddlebrown;
+    color: maroon;
     float: left;
 }
 
