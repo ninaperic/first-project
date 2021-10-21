@@ -13,7 +13,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
   - Featured on all three pages, the full responsive navigation bar includes links to the About page, Gallery and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/nav-bar.png)
 
 - __About Page__
 
@@ -53,7 +53,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+    - There are no unfixed bugs.
 
 ## Deployment
 
@@ -71,13 +71,11 @@ The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- To make our pages responsive we used example of the bootstrap responsive css (https://getbootstrap.com/docs/3.4/css/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on this website were taken from Google (https://google.com/)
 
 
