@@ -36,7 +36,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
  - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites . The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/footer.png)
