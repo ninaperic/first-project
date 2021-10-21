@@ -19,13 +19,13 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
   - About page provides information to the user about the store, the reason why is was open,when it was open and it's opening hours.
 
-![About Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![About Page](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/about.png)
 
 - __Gallery Page__
 
   - Gallery page will provide the user with collection of pictures to see some of the newest clocks we have in our shop.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/gallery.png)
 
 - __Contact Page__
 
@@ -39,7 +39,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
   - The footer section includes links to the relevant social media sites . The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/footer.png)
 
 
 ## Testing 
