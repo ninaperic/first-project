@@ -32,7 +32,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
   - This page allows the user to find us and contact us. There is written our email adress and phone number.
   - The user will be able to send us a message but for that the user will be asked first to write their name and email address. 
 
-![Contact](https://github.com/ninaperic/vintage-clocks/tree/main/assets/readme_images.contact.png)
+![Contact](https://github.com/ninaperic/vintage-clocks/tree/main/assets/readme_images/contact.png)
 
  - __The Footer__ 
 
