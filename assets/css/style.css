@@ -5,8 +5,6 @@ body {
 .header {
     background-color: burlywood;
     padding: 0px 50px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .navigation {
@@ -63,13 +61,12 @@ body {
     width: 100%;
 }
 
-#main-section {
-    padding: 0px 50px;
+.main-section {
+    padding: 10px 50px 400px;
     background-image: url(../images/newback.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    height: 650px;
-    overflow: auto;
+    background-size: cover;
 }
 
 
@@ -103,6 +100,7 @@ h4 {
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
     color: maroon;
+    margin-bottom: 0;
 }
 
 ul {
@@ -204,7 +202,6 @@ background-color: saddlebrown;
 }
 
 .gallery-image {
-    height: 200px;
     margin-bottom: 20px;
 }
 
