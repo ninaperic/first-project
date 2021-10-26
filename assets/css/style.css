@@ -4,21 +4,31 @@ body {
 
 .header {
     background-color: burlywood;
-    padding: 0px 50px;
+    padding: 10px 20px;
 }
 
 .navigation {
-    padding-top: 31px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .navigation a {
     margin: 0 7px;
     color: maroon;
-    text-decoration: auto;
+    text-decoration: none;
     -webkit-text-stroke-width: thin;
-    font-size: 150%;
+    font-size: 129%;
     font-family: 'Dancing Script', cursive;
     letter-spacing: 2px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+a.current-page {
+    text-decoration: underline;
 }
 
 #about:hover {
@@ -37,7 +47,8 @@ body {
     font-family: 'Dancing Script', cursive;
     letter-spacing: 1px;
     color: maroon;
-    float: left;
+    text-align: center;
+    margin: 10px 0;
 }
 
 .logo-div {
@@ -53,6 +64,20 @@ body {
         margin-left: 15px;
         padding-top: 15px;
     }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .title-wrapper {
+        display: flex;
+        align-items: center;
+    }
+
+    .navigation {
+        align-items: center;
+    }
 }
 
 .main-logo {
@@ -62,45 +87,44 @@ body {
 }
 
 .main-section {
-    padding: 10px 50px 400px;
-    background-image: url(../images/newback.jpg);
+    padding: 10px 20px;
+    background-image: url(../images/background1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: calc(100vh - 139px);
 }
-
 
 h3 {
     text-align: center;
-    font-size: -webkit-xxx-large;
+    font-size: 23px;
     font-family: 'Dancing Script', cursive;
     color: maroon;
+}
+
+.paragraph-description {
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    color: maroon;
+}
+
+@media (min-width:900px) {
+        
+    .paragraph-description {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 48px;
+    }
 }
 
 h4 {
     text-align: left;
     font-family: 'Dancing Script', cursive;
     color: maroon;
-}
-
-#first-p {
-    margin-top: 0px;
-    text-align: center;
-    font-size: -webkit-xxx-large;
-    font-family: 'Dancing Script', cursive;
-    font-size: 35px;
-    color: maroon;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-#second-p {
-    text-align: center;
-    font-size: -webkit-xxx-large;
-    font-family: 'Dancing Script', cursive;
-    font-size: 35px;
-    color: maroon;
-    margin-bottom: 0;
 }
 
 ul {
