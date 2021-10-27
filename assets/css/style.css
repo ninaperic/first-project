@@ -1,10 +1,21 @@
+/* Defining height for header and footer */
 body {
+    --header-height: 125px;
+    --footer-height: 50px;
     margin: 0;
 }
 
+@media (min-width: 700px) {
+    body {
+        --header-height: 80px;
+    }
+}
+
+/* Header section including navigation and title */
 .header {
     background-color: burlywood;
     padding: 10px 20px;
+    height: var(--header-height);
 }
 
 .navigation {
@@ -18,28 +29,16 @@ body {
     color: maroon;
     text-decoration: none;
     -webkit-text-stroke-width: thin;
-    font-size: 129%;
+    font-size: 27px;
     font-family: 'Dancing Script', cursive;
     letter-spacing: 2px;
 }
 
 .navigation a:hover {
-    text-decoration: underline;
+    border-bottom: 1px solid maroon;
 }
 
 a.current-page {
-    text-decoration: underline;
-}
-
-#about:hover {
-    border-bottom: 1px solid maroon;
-}
-
-#gallery:hover {
-    border-bottom: 1px solid maroon;
-}
-
-#contact:hover {
     border-bottom: 1px solid maroon;
 }
 
@@ -60,9 +59,7 @@ a.current-page {
         display: block;
         width: 50px;
         height: auto;
-        float: left;
         margin-left: 15px;
-        padding-top: 15px;
     }
 
     .header {
@@ -86,13 +83,14 @@ a.current-page {
     width: 100%;
 }
 
+/* Content section for about page */
 .main-section {
     padding: 10px 20px;
     background-image: url(../images/background1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: calc(100vh - 139px);
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
 }
 
 h3 {
@@ -111,7 +109,6 @@ h3 {
 }
 
 @media (min-width:900px) {
-        
     .paragraph-description {
         font-size: 40px;
     }
@@ -127,28 +124,10 @@ h4 {
     color: maroon;
 }
 
-ul {
-    list-style: none;
-}
-
-ul li {
-    float: left;
-}
-
-footer {
-    background-color: burlywood;
-    padding: 0px 50px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.copyright {
-    margin: 0 auto;
-    padding-top: 15px;
-}
-
+/* Content section for gallery page */
 .gallery-section {
     background-color: antiquewhite;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
 }
 
 .gallery-title {
@@ -166,6 +145,7 @@ footer {
     width: 100%;
 }
 
+/* Content section for contact page */
 .boxmap-contact {
     background: antiquewhite;
     margin-top: 30px;
@@ -181,9 +161,8 @@ footer {
     -o-background-size:cover;
     background-size:cover;
     background-position:center;
+    min-height: calc(100vh - var(--header-height) - var(--footer-height));
 }
-
-
 
 .contact-box {
     background-color: saddlebrown;
@@ -197,18 +176,17 @@ form {
 }
 
 .submit-button {
-background-color: saddlebrown; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
-  font-size: 12px;
+    background-color: saddlebrown; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 12px;
 }
-
 
 .input-field {
     width: 100%;
@@ -243,4 +221,27 @@ background-color: saddlebrown;
 
 .mt30p {
     margin-top: 30px;
+}
+
+/*Footer section*/
+ul {
+    list-style: none;
+}
+
+ul li {
+    float: left;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: burlywood;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: space-between;
+    height: var(--footer-height);
+}
+
+.copyright {
+    margin: 0 auto;
+    padding-top: 15px;
 }
