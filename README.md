@@ -6,7 +6,46 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
 * [**User experience**](#user-experience-ux)
   * [User Stories](#user-stories)
-* [**Site structure**](#site-structure)
+  * [User Stories](#user-stories)
+  * [Site structure](#site-structure)
+  * [Design choises](#design-choises)
+* [**Features**](#features)
+  * [Existing Features (Functions and structure)](#existing-features-functions-and-structure)
+  * [Future Features](#future-features)
+* [**Technologies Used**](#technologies-used)
+* [**Testing**](#testing)
+    * [Validator Testing](#validator-testing)
+    * [Responsivness Test](#responsivness-test)
+    * [Responsivness Test](#responsivness-test)
+    * [Browser Compatibility](#browser-compatibility)
+    * [Testing User Stories](#testing-user-stories)
+    * [Known Bugs](#known-bugs)
+* [**Deployment**](#deployment)
+* [**Credits**](#credits)
+    * [Content](#content)
+    * [Credits](#credits)
+* [**Acknowledgements**](#acknowledgements)
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
 
 ![Screenshot of the website](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/devices.png)
 
