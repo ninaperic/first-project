@@ -110,9 +110,15 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 ### Known Bugs
 
-- Resolved
+- Resolved 
+  - `alt` attribute was missing on some images.
+  - Textarea head `type` attribute which was not valid.
+  - Some images used `.webp` format which was not supported in Safari.
 
 - Unresolved
+ - One of the images fails to load in Safari.
+
+ ![Deploying Steps](assets/readme_images/safari_image_issue.png)
 
 ## Deployment
 
@@ -136,7 +142,7 @@ The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 6. Type git clone, and then paste the URL copied from GitHub.
 7. Press enter and the local clone will be created.
 
-![Deploying Steps](assets/readme_images/cloning.png)
+![Cloning Steps](assets/readme_images/cloning.png)
 
 ## Credits  
 
