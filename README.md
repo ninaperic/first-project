@@ -4,7 +4,33 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
 ![Screenshot of the website](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/devices.png)
 
+## User Experience (UX)
+
+### User stories 
+
+- As a user I want to 
+- As a user I want to 
+- As a user I want to 
+- As a user I want to 
+- As a user I want to 
+- As a user I want to 
+
+## Site Structure
+
+Vintage Clocks Shop has three pages
+
+
+
+
 ## Features 
+
+## Design Choices
+
+- Typography
+
+- Colour Scheme
+
+![Color palette](assets/readme_images/color_palette.jpg)
 
 ### Existing Features (Functions and structure)
 
