@@ -77,6 +77,13 @@ Vintage Clocks Shop has three pages
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fninaperic.github.io%2Fvintage-clocks%2F%3Ffbclid%3DIwAR0xLERJXKN7cHw1VtFblWWuqU_R_KGFj89za0jHKwLtPgH1z2NwtI8ex1o&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+  ### Future Features
+
+- Gallery becomes a shop page where user can select and add clocks to the shoping cart. 
+- Add shopping cart page where the user can finish shopping.
+- Add shopping cart icon to header.
+- Add shopping functionality.
+
 ### Responsivness Test
 
 - Responsivness test was done using Chrome Dev tools.
@@ -89,6 +96,8 @@ Vintage Clocks Shop has three pages
 
 
 ### Browser Compatibility
+
+Vintage Clocks Shop is 
 
 ### Unfixed Bugs
 
