@@ -4,7 +4,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
 ## Contents
 
-* [**User experience**](#user-experience-ux)
+* [**User experience UX**](#user-experience-ux)
   * [User Stories](#user-stories)
   * [User Stories](#user-stories)
   * [Site structure](#site-structure)
@@ -26,39 +26,19 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
     * [Credits](#credits)
 * [**Acknowledgements**](#acknowledgements)
 
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-    
-
-
-
-
-
-
 ![Screenshot of the website](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/devices.png)
 
 ## User Experience (UX)
 
-### User stories 
+## User stories 
 
-- As a user I want to 
-- As a user I want to 
-- As a user I want to 
-- As a user I want to 
-- As a user I want to 
-- As a user I want to 
+- As a user I want to understand what Vintage Clocks Shop is about.
+- As a user I want to know the story about Vintage Clocks Shop.
+- As a user I want to see pictures of the clocks the shop sells.
+- As a user I want to navigate trough the pages od the web site.
+- As a user I want to be able to contact the shop.
+- As a user I want to see where the shop is located.
+- As a user I want to see who made the website.
 
 ## Site Structure
 
@@ -68,7 +48,11 @@ Vintage Clocks Shop has three pages About, Gallery and Contact. On the About pag
 
 - Typography
 
+  - The font used for the text was 'Dancing Script' which is cursive and gives the web site a vintage look.
+
 - Colour Scheme
+
+  - The color scheme is also based on vintage looking colors, that give impression of warmth and cozy feeling. 
 
 ![Color palette](assets/readme_images/color_palette.jpg)
 
