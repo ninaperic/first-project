@@ -2,6 +2,12 @@
 
 Vintage Clocks Shop is a website that represents our shop where we sell vintage clocks. It is made so the people can find us and contact us.
 
+## Contents
+
+* [**User experience**](#user-experience-ux)
+  * [User Stories](#user-stories)
+* [**Site structure**](#site-structure)
+
 ![Screenshot of the website](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/devices.png)
 
 ## User Experience (UX)
@@ -124,9 +130,9 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
 
-  1. In the GitHub repository, navigate to the Settings tab 
-  2. From the source section drop-down menu, select the Master Branch
-  3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+1. In the GitHub repository, navigate to the Settings tab 
+2. From the source section drop-down menu, select the Master Branch
+3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 ![Deploying Steps](assets/readme_images/deploying.png)
 
