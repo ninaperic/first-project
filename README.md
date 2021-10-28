@@ -2,6 +2,8 @@
 
 Vintage Clocks Shop is a website that represents our shop where we sell vintage clocks. It is created so the people can find information about Vintage Clocks Shop, what we sell and also to be able to find us and contact us.
 
+Here you can explore our <a href="https://ninaperic.github.io/vintage-clocks/" alt="vintage-clocks-shop" target="_blank">Vintage Clocks Shop</a>.
+
 ## Contents
 
 * [**User experience UX**](#user-experience-ux)
