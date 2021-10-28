@@ -186,7 +186,7 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-![Deploying Steps](assets/readme_images/deploying1.png)
+![Deploying Steps](assets/readme_images/deploying2.png)
 
 The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
