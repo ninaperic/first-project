@@ -71,6 +71,14 @@ Vintage Clocks Shop has three pages About, Gallery and Contact. On the About pag
 - Add shopping cart icon to header.
 - Add shopping functionality.
 
+## Technologies Used
+
+- HTML5: Used for the web site content.
+- CSS: Used to style the web site.
+- VS Code: The editor used for coding.
+- Github: Used as version control system.
+- Github Pages: Used to deploy web site online.
+- Bootstrap grid system: CSS for grid system was extracted into custom-style.css.
 
 ## Testing 
 
