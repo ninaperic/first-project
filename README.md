@@ -118,14 +118,25 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  1. In the GitHub repository, navigate to the Settings tab 
+  2. From the source section drop-down menu, select the Master Branch
+  3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 ![Deploying Steps](assets/readme_images/deploying.png)
 
 The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
+- Cloning project locally 
+
+1. On the repository, click on the code tab.
+2. Click on the code button the right.
+3. In the Clone with HTTPS section, click on the clipboard icon to copy the given URL.
+4. In your IDE of choice, open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL copied from GitHub.
+7. Press enter and the local clone will be created.
+
+![Deploying Steps](assets/readme_images/cloning.png)
 
 ## Credits  
 
