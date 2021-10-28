@@ -77,6 +77,19 @@ Vintage Clocks Shop has three pages
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fninaperic.github.io%2Fvintage-clocks%2F%3Ffbclid%3DIwAR0xLERJXKN7cHw1VtFblWWuqU_R_KGFj89za0jHKwLtPgH1z2NwtI8ex1o&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+### Responsivness Test
+
+- Responsivness test was done using Chrome Dev tools.
+
+|        | iPhone 6/7/8 Plus | Pixel 2 XL| iPhone 5 | iPad | iPad Pro | Display <1200px | Display >1200px |
+|--------|-------------------|-----------|----------|------|----------|-----------------|-----------------|
+| Render | pass              | pass      | pass     | pass | pass     | pass            | pass            |
+| Images | pass              | pass      | pass     | pass | pass     | pass            | pass            |
+| Links  | pass              | pass      | pass     | pass | pass     | pass            | pass            |
+
+
+### Browser Compatibility
+
 ### Unfixed Bugs
 
     - There are no unfixed bugs.
