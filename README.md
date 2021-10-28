@@ -17,12 +17,7 @@ Vintage Clocks Shop is a website that represents our shop where we sell vintage 
 
 ## Site Structure
 
-Vintage Clocks Shop has three pages
-
-
-
-
-## Features 
+Vintage Clocks Shop has three pages About, Gallery and Contact. On the About page the user can read the story about our shop. Gallery and Contact pages provide a collection of images with our latest clocks and information about how to find us and contact us.
 
 ## Design Choices
 
@@ -31,6 +26,8 @@ Vintage Clocks Shop has three pages
 - Colour Scheme
 
 ![Color palette](assets/readme_images/color_palette.jpg)
+
+## Features
 
 ### Existing Features (Functions and structure)
 
@@ -67,6 +64,13 @@ Vintage Clocks Shop has three pages
 
 ![Footer](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/footer.png)
 
+### Future Features
+
+- Gallery becomes a shop page where user can select and add clocks to the shoping cart. 
+- Add shopping cart page where the user can finish shopping.
+- Add shopping cart icon to header.
+- Add shopping functionality.
+
 
 ## Testing 
 
@@ -77,12 +81,6 @@ Vintage Clocks Shop has three pages
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fninaperic.github.io%2Fvintage-clocks%2F%3Ffbclid%3DIwAR0xLERJXKN7cHw1VtFblWWuqU_R_KGFj89za0jHKwLtPgH1z2NwtI8ex1o&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-  ### Future Features
-
-- Gallery becomes a shop page where user can select and add clocks to the shoping cart. 
-- Add shopping cart page where the user can finish shopping.
-- Add shopping cart icon to header.
-- Add shopping functionality.
 
 ### Responsivness Test
 
