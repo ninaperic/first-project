@@ -103,18 +103,26 @@ Vintage Clocks Shop has three pages About, Gallery and Contact. On the About pag
 
 ### Browser Compatibility
 
-Vintage Clocks Shop is 
+Vintage Clocks Shop is functional and properly displayed in the following web browsers: Google Chrome, Mozilla Firefox and Safari. 
 
-### Unfixed Bugs
+### Testing User Stories
 
-    - There are no unfixed bugs.
+
+### Known Bugs
+
+- Resolved
+
+- Unresolved
 
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
+
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+![Deploying Steps](assets/readme_images/deploying.png)
 
 The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
