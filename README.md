@@ -1,6 +1,6 @@
 # Vintage Clocks Shop
 
-Vintage Clocks Shop is a website that represents our shop where we sell vintage clocks. It is made so the people can find us and contact us.
+Vintage Clocks Shop is a website that represents our shop where we sell vintage clocks. It is created so the people can find information about Vintage Clocks Shop, what we sell and also to be able to find us and contact us.
 
 ## Contents
 
@@ -136,6 +136,33 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 ### Testing User Stories
 
+- As a user I want to understand what Vintage Clocks Shop is about.
+
+  - On the main page there is a whole explanation for the user to find out what Vintage Clocks Shop is about.
+
+-  As a user I want to know the story about Vintage Clocks Shop.
+
+  - About page provides information about the idea which lad to open Vintage Clocks shop and the whole story about it.
+
+- As a user I want to see pictures of the clocks the shop sells.
+
+  - Gallery page is filled with images of our latest vintage clocks.
+
+- As a user I want to navigate trough the pages od the web site.
+ 
+  - At the top of every page there is the navigation menu.
+
+- As a user I want to be able to contact the shop.
+ 
+  - Contact page has all the informations the user needs to contact us, including a form to send us a message, e-mail adress and phone number.
+
+- As a user I want to see where the shop is located.
+
+  - Contact page provides a google map as well so the user can see our location.
+
+- As a user I want to see who made the website.
+
+  - To the bottom of the page the user can see the copyright listed.
 
 ### Known Bugs
 
@@ -145,7 +172,7 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
   - Some images used `.webp` format which was not supported in Safari.
 
 - Unresolved
- - One of the images fails to load in Safari.
+  - One of the images fails to load in Safari.
 
  ![Deploying Steps](assets/readme_images/safari_image_issue.png)
 
