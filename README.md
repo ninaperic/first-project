@@ -138,31 +138,31 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 - As a user I want to understand what Vintage Clocks Shop is about.
 
-  - On the main page there is a whole explanation for the user to find out what Vintage Clocks Shop is about.
+   - On the main page there is a whole explanation for the user to find out what Vintage Clocks Shop is about.
 
 -  As a user I want to know the story about Vintage Clocks Shop.
 
-  - About page provides information about the idea which lad to open Vintage Clocks shop and the whole story about it.
+   - About page provides information about the idea which lad to open Vintage Clocks shop and the whole story about it.
 
 - As a user I want to see pictures of the clocks the shop sells.
 
-  - Gallery page is filled with images of our latest vintage clocks.
+   - Gallery page is filled with images of our latest vintage clocks.
 
 - As a user I want to navigate trough the pages od the web site.
  
-  - At the top of every page there is the navigation menu.
+   - At the top of every page there is the navigation menu.
 
 - As a user I want to be able to contact the shop.
  
-  - Contact page has all the informations the user needs to contact us, including a form to send us a message, e-mail adress and phone number.
+   - Contact page has all the informations the user needs to contact us, including a form to send us a message, e-mail adress and phone number.
 
 - As a user I want to see where the shop is located.
 
-  - Contact page provides a google map as well so the user can see our location.
+   - Contact page provides a google map as well so the user can see our location.
 
 - As a user I want to see who made the website.
 
-  - To the bottom of the page the user can see the copyright listed.
+   - To the bottom of the page the user can see the copyright listed.
 
 ### Known Bugs
 
@@ -184,7 +184,7 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-![Deploying Steps](assets/readme_images/deploying.png)
+![Deploying Steps](assets/readme_images/deploying1.png)
 
 The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
