@@ -161,4 +161,12 @@ The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
 - The photos used on this website were taken from Google (https://google.com/)
 
+## Acknowledgements
+
+This web site was created as a first project of five for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute. Vintage Clocks shop doesn't exist and it's only made-up idea. I wish to express my deepest gratitude to my mentor Precious Ijege for all the help trough the process of making this project.
+
+Nina Perić 2021.
+
+
+
 
