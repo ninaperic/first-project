@@ -35,7 +35,6 @@ Here you can explore our <a href="https://ninaperic.github.io/vintage-clocks/" a
 ## User stories 
 
 - As a user I want to understand what Vintage Clocks Shop is about.
-- As a user I want to know the story about Vintage Clocks Shop.
 - As a user I want to see pictures of the clocks the shop sells.
 - As a user I want to navigate trough the pages od the web site.
 - As a user I want to be able to contact the shop.
@@ -71,7 +70,7 @@ Vintage Clocks Shop has three pages About, Gallery and Contact. On the About pag
 
 - __About Page__
 
-  - About page provides information to the user about the store, the reason why is was open,when it was open and it's opening hours.
+  - About page provides information to the user about the store, the reason why it was open, when it was open and it's opening hours.
 
 ![About Page](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/about.png)
 
@@ -83,14 +82,14 @@ Vintage Clocks Shop has three pages About, Gallery and Contact. On the About pag
 
 - __Contact Page__
 
-  - This page allows the user to find us and contact us. There is written our email adress and phone number.
-  - The user will be able to send us a message but for that the user will be asked first to write their name and email address. 
+  - This page allows the user to find us and contact us. It also provides our e-mail adress and phone number.
+  - The user will be able to send us a message but for that the user will be asked first to write their name and e-mail adress. 
 
 ![Contact](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/contact.png)
 
  - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites. The links will open in a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/footer.png)
@@ -138,13 +137,9 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 ### Testing User Stories
 
-- As a user I want to understand what Vintage Clocks Shop is about.
+-  As a user I want to understand what Vintage Clocks Shop is about.
 
-   - On the main page there is a whole explanation for the user to find out what Vintage Clocks Shop is about.
-
--  As a user I want to know the story about Vintage Clocks Shop.
-
-   - About page provides information about the idea which lad to open Vintage Clocks shop and the whole story about it.
+   - About page provides information about the idea which led to open Vintage Clocks shop and the whole story about it.
 
 - As a user I want to see pictures of the clocks the shop sells.
 
@@ -156,9 +151,9 @@ Vintage Clocks Shop is functional and properly displayed in the following web br
 
 - As a user I want to be able to contact the shop.
  
-   - Contact page has all the informations the user needs to contact us, including a form to send us a message, e-mail adress and phone number.
+   - Contact page has all the information the user needs to contact us, including a form to send us a message, e-mail adress and phone number.
 
-- As a user I want to see where the shop is located.
+- As a user I want to see where is the shop located.
 
    - Contact page provides a google map as well so the user can see our location.
 
